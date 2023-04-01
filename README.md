@@ -1,2 +1,6 @@
 # Task-Management-System
-Developed a Desktop Application for Task Management System to Monitor the Employee Task and also Developed a JSON to Server and Client.  
+
+This repo contains the small scale Employee Task Management System.
+
+changes by naeem
+
